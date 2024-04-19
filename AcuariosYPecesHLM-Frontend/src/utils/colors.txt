@@ -1,0 +1,3 @@
+color logos y texto footer: {
+    #C9C9C9
+}
